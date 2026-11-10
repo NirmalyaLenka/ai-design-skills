@@ -84,6 +84,15 @@ MIT. Use it, fork it, ship it, sell what you build with it. No attribution neede
 
 ---
 
+## Repository structure
+
+Key files and folders (not exhaustive):
+
+- `.gitignore`
+- `LICENSE`
+- `README.md`
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
